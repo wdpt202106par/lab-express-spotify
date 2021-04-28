@@ -1,0 +1,26 @@
+button {
+    background-color:darkcyan;
+    padding:10px;
+}
+div {
+    margin:0 auto;
+    display: flex;
+    flex-direction: column;
+}
+li {
+    margin-bottom: 0;
+    padding: 10px;
+    width: 60%;
+    background-color: rgb(219, 218, 218);
+    text-decoration: none;
+    display: flex;
+    justify-content: space-between;
+}
+#title {
+    display: flex;
+    padding: 10px;
+    width: 60%;
+    font-size: 2em;
+    color:white;
+    background-color: gray;
+}

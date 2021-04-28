@@ -1,3 +1,7 @@
-body {
-    background-image: url(public/images/spotify-background.jpeg);
+button {
+    background-color:darkcyan;
+    padding:10px;
+}
+div {
+    margin:0 auto;
 }
